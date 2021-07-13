@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="This is the personal website of PhD canditate Ruben Dewitte at Ghent University">
+    <meta name="author" content="Ruben Dewitte">
+    <meta name="keywords" content="Ruben, Dewitte, Ruben Dewitte, Ghent University, Ugent, website, PhD candidate, PhD, Nonparametric, non-parametric, non paramatric, productivity, comparative advantage">
+
+    <title>Ruben Dewitte - PhD candidate at Ghent University</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/creative.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<style>
+#Research ol li {
+    margin: 0 0 10px 0;
+}
+</style>
+
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">RUBEN DEWITTE </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#Research">Research</a>
+                    </li>
+                 
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading"> Ruben Dewitte </h1>
+                <hr>
+                <p>PhD candidate at Ghent University</p>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+            </div>
+        </div>
+    </header>
+
+    <section  id="about">
+        <div class="container">
+            <div class="row">
+                <div class=" text-center">
+                    <h2 class="section-heading">About</h2>
+                    <hr class="primary">
+			<div class="text-left">
+                    		<p > <br> I am a second-year PhD candidate at Ghent University under the supervision of Prof. Dr. Glenn Rayp. The PhD will be titled "Firm heterogeneity and country characteristics in international
+trade".	</p>
+                    		<p >My research focuses on the topics of International Economics and Applied Microeconomics. At the moment, my focus lies mainly with topics related to International Trade, Firm 						Performance and Production Function Estimations.  </p>
+				<p> Please find an overview of my experience and other qualifications below: </p>
+				<div class=" text-center">
+				<p  >  <a href="./pdf/cv.pdf" target="_blank" > <i class="fa fa-file fa-3x sr-contact"></i></a> <br>
+					<a href="./pdf/cv.pdf" target="_blank" >CV</a> </p>
+				</div>
+                	</div>
+		</div>
+            </div>
+        </div>
+    </section>
+
+    <section id="Research">
+        <div class="container">
+            <div class="row">
+                <div class=" text-center">
+                    <h2 class="section-heading">Research</h2>
+                    <hr class="primary">
+ 		    <div class="text-left">
+		    <h3 class="section-heading">Work in progress</h3>
+                    <p><ol>
+      	<li> "<a href="./pdf/Comparative advantage and heterogeneous firms. The case of Portugal.pdf" target="_blank" >Comparative advantage and heterogeneous firms. The case of Portugal</a>" (with G. Rayp) </li>
+	<li> "Factor-biased technical change: A nonparametric analysis at the firm-level." (with M. Verschelde, M. Dumont, B. Merlevede and G. Rayp) </li>
+	<li> "Productivity for Dummies: Pick the Best from all Methodologies" (with R. Dewitte & I. De Vos) </li>
+    </ol></p>
+ </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="text-center">
+                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <hr class="primary">
+                    <p>Want to contact me? Find my contact details below, I will get back to you as soon as possible! <br></p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-home fa-3x sr-contact"></i>
+                    <p> Office 110.019 <br>
+			Campus Tweekerkenstraat <br>
+			Tweekerkenstraat 2 <br>
+			BE-9000 Gent </p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope fa-3x sr-contact"></i>
+                    <p> <br>
+<a href="mailto:rubenl.dewitte@ugent.be">rubenl.dewitte[at]ugent.be</a></p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-cloud fa-3x sr-contact"></i>
+                    <p><a href="https://www.linkedin.com/in/ruben-dewitte-ab79b147?trk=hp-identity-name" target="_blank">LinkedIn</a>
+			<br> <a href="https://twitter.com/ruben0dewitte" target="_blank">Twitter</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/creative.min.js"></script>
+
+</body>
+
+</html>
